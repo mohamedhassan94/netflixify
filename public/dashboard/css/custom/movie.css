@@ -1,0 +1,21 @@
+#upload_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 25vh;
+    cursor: pointer;
+}
+
+#publish_movie_btn {
+    display: none;
+}
+
+.progress_section {
+    display: none;
+}
+
+.continue_publish{
+    display: none;
+}
